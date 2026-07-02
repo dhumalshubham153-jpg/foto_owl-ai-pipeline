@@ -1,0 +1,26 @@
+
+# Environment variables
+.env
+
+# Python virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# VS Code
+.vscode/
+
+# Environment folders
+Include/
+Lib/
+Scripts/
+pyvenv.cfg
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Output folder
+output/
