@@ -1,24 +1,20 @@
-# Python
+# Python virtual environment
 .venv/
 venv/
+
+# Python cache
 __pycache__/
-*.py[cod]
+*.pyc
+
+# Environment variables
+.env
 
 # Node
 node_modules/
 
-# Environment
-.env
-.env.*
-
-# Output
-output/
-*.mp4
-
-# IDE
+# VS Code
 .vscode/
-.idea/
 
-# OS
+# OS files
 .DS_Store
 Thumbs.db
