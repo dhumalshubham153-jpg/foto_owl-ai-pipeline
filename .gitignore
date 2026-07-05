@@ -1,26 +1,24 @@
-
-# Environment variables
-.env
-
-# Python virtual environment
+# Python
 .venv/
-
-# Python cache
+venv/
 __pycache__/
 *.py[cod]
 
-# VS Code
+# Node
+node_modules/
+
+# Environment
+.env
+.env.*
+
+# Output
+output/
+*.mp4
+
+# IDE
 .vscode/
+.idea/
 
-# Environment folders
-Include/
-Lib/
-Scripts/
-pyvenv.cfg
-
-# OS files
+# OS
 .DS_Store
 Thumbs.db
-
-# Output folder
-output/

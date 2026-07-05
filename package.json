@@ -1,0 +1,31 @@
+{
+  "name": "fotoowl-ai-pipeline",
+  "version": "1.0.0",
+  "description": "An AI-powered multi-agent video generation pipeline built using LangGraph, Gemini, ChromaDB and Remotion.",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dhumalshubham153-jpg/foto_owl-ai-pipeline.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/dhumalshubham153-jpg/foto_owl-ai-pipeline/issues"
+  },
+  "homepage": "https://github.com/dhumalshubham153-jpg/foto_owl-ai-pipeline#readme",
+  "dependencies": {
+    "@remotion/cli": "^4.0.484",
+    "@remotion/player": "^4.0.484",
+    "react": "^19.2.7",
+    "react-dom": "^19.2.7",
+    "remotion": "^4.0.484"
+  }
+}

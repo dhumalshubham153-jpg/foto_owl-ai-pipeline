@@ -1,0 +1,13 @@
+Remotion Sequence Component
+
+Purpose:
+Controls when an element appears on the timeline.
+
+Example:
+
+<Sequence
+    from={0}
+    durationInFrames={150}
+>
+
+</Sequence>

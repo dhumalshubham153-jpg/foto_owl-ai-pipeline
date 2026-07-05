@@ -1,29 +1,38 @@
 from typing import List, Optional
-from pydantic import BaseModel
+from pydantic import BaseModel, Field
 
 from models.analysis import ImageAnalysis
 from models.intent import VideoIntent
 
 
 class PipelineState(BaseModel):
+    # User Input
     user_prompt: str
 
-    image_paths: List[str] = []
+    # Images
+    image_paths: List[str] = Field(default_factory=list)
+    image_analysis: List[ImageAnalysis] = Field(default_factory=list)
+    selected_images: List[str] = Field(default_factory=list)
 
+    # Intent
     video_intent: Optional[VideoIntent] = None
 
-    image_analysis: List[ImageAnalysis] = []
+    # RAG Context
+    style_context: str = ""
+    remotion_context: str = ""
 
-    selected_images: List[str] = []
-
+    # Storyboard
     storyboard: Optional[dict] = None
 
+    # Generated Script
     remotion_script: Optional[str] = None
 
-    compile_errors: List[str] = []
-
+    # Compiler
+    compile_errors: List[str] = Field(default_factory=list)
     retry_count: int = 0
 
+    # Final Output
     rendered_video_path: Optional[str] = None
 
-    status: str = "started"
+    # Pipeline Status
+    status: str = "initialized"

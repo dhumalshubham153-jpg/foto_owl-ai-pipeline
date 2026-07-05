@@ -1,0 +1,10 @@
+Style: Corporate
+
+Characteristics:
+- Professional appearance
+- Clean typography
+- Neutral colors
+- Smooth transitions
+- Short informative captions
+- Minimal animations
+- Consistent branding

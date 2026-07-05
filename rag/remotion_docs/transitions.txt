@@ -1,0 +1,13 @@
+Remotion Transitions
+
+Common transitions:
+
+- Fade
+- Zoom
+- Scale
+- Opacity
+- Spring animation
+- Slide
+- Translate
+
+Use transitions according to the video style.
