@@ -5,7 +5,7 @@ from models.state import PipelineState
 from services.output_services import OutputService
 
 
-def load_images(folder="data/images"):
+def load_images(folder="public/images"):
     supported_extensions = {".jpg", ".jpeg", ".png"}
 
     image_paths = [

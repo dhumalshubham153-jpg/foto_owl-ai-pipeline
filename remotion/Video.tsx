@@ -9,7 +9,7 @@ import {
   spring,
 } from "remotion";
 
-const storyboard = require("../output/storyboard.json");
+import storyboard from "../output/storyboard.json";
 
 const SceneComponent = ({ scene }: any) => {
   const frame = useCurrentFrame();
