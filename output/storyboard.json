@@ -1,0 +1,174 @@
+{
+    "title": "cinematic wedding reel Storyboard",
+    "total_duration": 105,
+    "scenes": [
+        {
+            "scene_number": 1,
+            "image_name": "image_4.jpg",
+            "image_path": "public\\images\\AHD_6052.jpg",
+            "duration": 5,
+            "caption": "A truly heartwarming moment unfolds as the groom adjusts the bride's necklace, their eyes meeting in a shared, joyful glance. This image beautifully encapsulates their love and connection amidst the wedding rituals.",
+            "transition": "smooth"
+        },
+        {
+            "scene_number": 2,
+            "image_name": "image_5.jpg",
+            "image_path": "public\\images\\AHD_6065.jpg",
+            "duration": 5,
+            "caption": "The couple shares a loving exchange during a ceremonial act, with the groom adjusting the bride's adornment. Their smiles and shared gaze speak volumes about their bond, framed by the traditional setting.",
+            "transition": "smooth"
+        },
+        {
+            "scene_number": 3,
+            "image_name": "image_7.jpg",
+            "image_path": "public\\images\\AHD_6106.jpg",
+            "duration": 5,
+            "caption": "A tender and significant moment as an elder, likely the bride's mother, performs a traditional foot ritual, offering blessings. Both women share warm smiles, highlighting the deep familial bonds and cultural reverence.",
+            "transition": "smooth"
+        },
+        {
+            "scene_number": 4,
+            "image_name": "image_8.jpg",
+            "image_path": "public\\images\\AHD_6142.jpg",
+            "duration": 5,
+            "caption": "Surrounded by assisting family members, the bride and groom participate in a sacred wedding ritual. The bride's warm smile towards the groom, alongside the attentive family, captures the communal spirit of the ceremony.",
+            "transition": "smooth"
+        },
+        {
+            "scene_number": 5,
+            "image_name": "image_4.jpg",
+            "image_path": "public\\images\\AHD_6189.jpg",
+            "duration": 5,
+            "caption": "An emotionally charged moment where the groom kneels and presents an offering to his bride, who looks directly at him with a loving smile. This powerful wide shot perfectly encapsulates their connection and respect during the traditional ceremony.",
+            "transition": "smooth"
+        },
+        {
+            "scene_number": 6,
+            "image_name": "image_5.jpg",
+            "image_path": "public\\images\\AHD_6202.jpg",
+            "duration": 5,
+            "caption": "A stunning overhead close-up portrait of the bride, radiating joy with a wide smile while looking down. The shot highlights her intricate makeup, traditional jewelry, and the rich textures of her red and gold bridal saree.",
+            "transition": "smooth"
+        },
+        {
+            "scene_number": 7,
+            "image_name": "image_7.jpg",
+            "image_path": "public\\images\\DSC_4491.jpg",
+            "duration": 5,
+            "caption": "The couple, dressed in complementary white and yellow attire, stand embraced amidst tall green plants, sharing a tender look. This full-body shot captures their affection and the natural beauty of their outdoor setting.",
+            "transition": "smooth"
+        },
+        {
+            "scene_number": 8,
+            "image_name": "image_8.jpg",
+            "image_path": "public\\images\\DSC_4496.jpg",
+            "duration": 5,
+            "caption": "An intimate close-up of the couple in a loving embrace, with the groom looking down at the bride, who smiles contentedly. Framed by soft greenery, this shot perfectly conveys their deep connection and tender affection.",
+            "transition": "smooth"
+        },
+        {
+            "scene_number": 9,
+            "image_name": "Haldi_Couple_TenderGaze.jpg",
+            "image_path": "public\\images\\DSC_4988.jpg",
+            "duration": 5,
+            "caption": "A deeply intimate and romantic shot of the bride and groom, adorned with haldi, sharing a tender embrace and a loving gaze. Their soft smiles and close proximity perfectly convey their deep connection and affection.",
+            "transition": "smooth"
+        },
+        {
+            "scene_number": 10,
+            "image_name": "image_4.jpg",
+            "image_path": "public\\images\\DSC_6617.jpg",
+            "duration": 5,
+            "caption": "An intimate close-up of the bride, looking down with a contented, soft smile, emphasizing her intricate bridal makeup and the fine details of her traditional gold jewelry and embroidered blouse. The lighting highlights her serene beauty.",
+            "transition": "smooth"
+        },
+        {
+            "scene_number": 11,
+            "image_name": "image_5.jpg",
+            "image_path": "public\\images\\DSC_6629.jpg",
+            "duration": 5,
+            "caption": "A dynamic and engaging shot of the bride outdoors, looking back over her shoulder with a charming, bright smile. This pose highlights her elaborate hairstyle and the elegant drape of her saree.",
+            "transition": "smooth"
+        },
+        {
+            "scene_number": 12,
+            "image_name": "image_7.jpg",
+            "image_path": "public\\images\\DSC_6701.jpg",
+            "duration": 5,
+            "caption": "The newlywed couple, dressed in traditional attire, are captured walking hand-in-hand in a garden, sharing a loving glance. This shot beautifully showcases their full wedding ensembles and their genuine connection in a natural setting.",
+            "transition": "smooth"
+        },
+        {
+            "scene_number": 13,
+            "image_name": "image_8.jpg",
+            "image_path": "public\\images\\DSC_6805.jpg",
+            "duration": 5,
+            "caption": "A tender and intimate close-up of the bride and groom embracing, radiating warmth and affection. The groom holds the bride gently as they share a moment of quiet joy, beautifully highlighting the bride's intricate mehndi and expressions.",
+            "transition": "smooth"
+        },
+        {
+            "scene_number": 14,
+            "image_name": "image_4.jpg",
+            "image_path": "public\\images\\_ASL9971.jpg",
+            "duration": 5,
+            "caption": "This image captures the groom kissing the bride's forehead, with her eyes closed in contentment and a blissful smile, framed slightly wider than a similar shot. It reiterates their deep affection in a lovely outdoor setting.",
+            "transition": "smooth"
+        },
+        {
+            "scene_number": 15,
+            "image_name": "image_5.jpg",
+            "image_path": "public\\images\\_ASL9976.jpg",
+            "duration": 5,
+            "caption": "A stunning close-up of the groom kissing the bride's forehead, her joyful expression and closed eyes radiating pure happiness. This intimate shot beautifully highlights the intricate details of their attire and jewelry, and their profound connection.",
+            "transition": "smooth"
+        },
+        {
+            "scene_number": 16,
+            "image_name": "image_7.jpg",
+            "image_path": "public\\images\\_ASL9995.jpg",
+            "duration": 5,
+            "caption": "An incredibly close and personal shot focusing on the couple's faces, leaning into each other with radiant smiles and foreheads touching. This image brilliantly encapsulates their profound happiness and tender connection on their special day.",
+            "transition": "smooth"
+        },
+        {
+            "scene_number": 17,
+            "image_name": "image_8.jpg",
+            "image_path": "public\\images\\pexels-centre-for-ageing-better-7858233.jpg",
+            "duration": 5,
+            "caption": "Three gentlemen are engrossed in a game of golf on a green course, with one actively putting the ball. The image captures the focus and camaraderie of the players in a bright outdoor setting.",
+            "transition": "smooth"
+        },
+        {
+            "scene_number": 18,
+            "image_name": "image_4.jpg",
+            "image_path": "public\\images\\pexels-jopwell-1325722.jpg",
+            "duration": 5,
+            "caption": "Inside what appears to be a pro shop, two men engage in a focused conversation while one points to golf clubs. This candid shot captures an interaction and a decision-making moment, adding a touch of behind-the-scenes detail.",
+            "transition": "smooth"
+        },
+        {
+            "scene_number": 19,
+            "image_name": "image_5.jpg",
+            "image_path": "public\\images\\pexels-jopwell-1325723.jpg",
+            "duration": 5,
+            "caption": "Sitting comfortably in a golf cart, a young man beams a genuine smile, radiating happiness and anticipation. This portrait effectively captures a joyful, relaxed mood, making it a strong contender for highlighting a key individual's positive experience.",
+            "transition": "smooth"
+        },
+        {
+            "scene_number": 20,
+            "image_name": "image_7.jpg",
+            "image_path": "public\\images\\pexels-jopwell-1325769.jpg",
+            "duration": 5,
+            "caption": "Captured mid-action, a man in a red shirt is perfectly poised to tee off, his gaze fixed on the ball. This dynamic image highlights focus and determination, encapsulating a peak moment of activity with a picturesque backdrop.",
+            "transition": "smooth"
+        },
+        {
+            "scene_number": 21,
+            "image_name": "image_8.jpg",
+            "image_path": "public\\images\\pexels-kampus-production-6542438.jpg",
+            "duration": 5,
+            "caption": "A golfer is captured from behind during his swing, showcasing the power and grace of the movement against a wide-open, vibrant green course. The expansive backdrop emphasizes the outdoor setting and the energy of the moment.",
+            "transition": "smooth"
+        }
+    ]
+}
